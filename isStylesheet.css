@@ -1,14 +1,37 @@
     .isBody
     {
         border: 2px solid black;
+        border-radius:35px;
         font-family: courier;
         font-size:15px;
+        width:auto;
     }
+
     
     form
     {
-        
         margin:  auto 75px ;
+        padding-bottom:10px;
+    }
+    h3
+    {
+        margin:  auto 75px ;
+        padding-top:10px;
+    }
+    
+    #isButton{
+        position:absolute;
+        top:348px;
+        left: 300px;
+    }
+    
+    .theLabels
+    {
         
+        position:absolute;
+        top:158px;
+        left: 300px;
+        color:red;
+       
     }
     
